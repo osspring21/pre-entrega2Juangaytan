@@ -1,0 +1,112 @@
+* {
+margin: 0; 
+padding: 0;
+}
+
+
+/*Section inicio*/
+h1 {
+    color: purple;
+}
+
+.menu-container {
+        font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 20px 0;
+    color: blue;
+    background-color: pink;
+    border: 3px solid gray;
+}
+
+.logo {
+    text-align: center;
+}
+
+
+.block-container {
+    border: 3px solid white;
+    margin: 30px;
+    padding-left: 300px;
+}
+
+.titulo {
+align-items: center;
+}
+
+.contenido {
+    border: 3px solid black;
+    display: inline-block;
+    background-color: #57a6a8;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 70%;
+
+    
+}
+
+.final {
+    font-weight: lighter;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.menu1-container {
+    border: 3px solid black;
+    display: inline-block;
+    padding: 20px;
+}
+
+.menu2 {
+    color: blueviolet;
+    text-align: center;
+}
+
+.promociones1 {
+    color: blueviolet;
+    text-align: center;
+}
+
+.promociones-container {
+    border: 3px solid black;
+    display: inline-block;
+    padding: 20px;
+    
+}
+.galeria-container {
+    border: 3px solid black;
+    display: inline-block;
+    padding: 100px;
+}
+
+.galeria1 {
+    color: blueviolet;
+    text-align: center;
+}
+
+.nosotros-container {
+    border: 3px solid black;
+    display: inline-block;
+    padding: 20px;
+}
+
+.nosotros1 {
+    color: blueviolet;
+    text-align: center;
+    
+}
+
+.video1 {
+    text-align: center;
+}
+
+.contacto-container {
+    border: 3px solid black;
+    display: inline-block;
+    padding: 20px;
+}
+
+.contacto1 {
+    color: blueviolet;
+    text-align: center;
+    
+}
