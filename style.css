@@ -5,22 +5,26 @@ padding: 0;
 
 
 /*Section inicio*/
-h1 {
+.bg-color {
+    background-color: skyblue;
+}
+
+.navbar-nav {
+    align-items: center;
+    }
+
+.collapse{
+    justify-content: center;
+}
+
+.navbar-brand{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
     color: purple;
+        
 }
 
-.menu-container {
-        font-weight: bolder;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    padding: 20px 0;
-    color: blue;
-    background-color: pink;
-    border: 3px solid gray;
-}
-
-.logo {
-    text-align: center;
-}
+h1 {
+    color: purple;}
 
 
 .block-container {
