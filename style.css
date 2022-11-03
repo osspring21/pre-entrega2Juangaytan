@@ -55,6 +55,7 @@ align-items: center;
 
 
 .menu1-container {
+    background-color: pink;
     border: 3px solid black;
     display: inline-block;
     padding: 20px;
@@ -70,24 +71,25 @@ align-items: center;
     text-align: center;
 }
 
+.promocion1{
+    align-items: center;
+    justify-items: center;
+}
+
 .promociones-container {
+    background-color: pink;
     border: 3px solid black;
     display: inline-block;
     padding: 20px;
     
 }
-.galeria-container {
-    border: 3px solid black;
-    display: inline-block;
-    padding: 100px;
-}
 
-.galeria1 {
-    color: blueviolet;
-    text-align: center;
+.carousel{
+    justify-content: center;
 }
 
 .nosotros-container {
+    background-color: pink;
     border: 3px solid black;
     display: inline-block;
     padding: 20px;
@@ -104,6 +106,7 @@ align-items: center;
 }
 
 .contacto-container {
+    background-color: pink;
     border: 3px solid black;
     display: inline-block;
     padding: 20px;
