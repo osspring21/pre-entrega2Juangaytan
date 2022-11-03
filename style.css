@@ -11,10 +11,10 @@ padding: 0;
 
 .navbar-nav {
     align-items: center;
-    }
+}
 
 .collapse{
-    justify-content: center;
+justify-content: space-around;
 }
 
 .navbar-brand{
@@ -28,9 +28,8 @@ h1 {
 
 
 .block-container {
-    border: 3px solid white;
+    
     margin: 30px;
-    padding-left: 300px;
 }
 
 .titulo {
@@ -40,19 +39,20 @@ align-items: center;
 .contenido {
     border: 3px solid black;
     display: inline-block;
-    background-color: #57a6a8;
+    padding: 20px;
+    background-color: pink;
     font-weight: bold;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    width: 70%;
-
-    
+    width: 100%;
 }
 
-.final {
-    font-weight: lighter;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
+.final{
+    background-color: skyblue;
+    width: 100%;
+    display: inline-flex;
+    justify-content: space-around;
 }
+
 
 .menu1-container {
     border: 3px solid black;
