@@ -57,14 +57,22 @@ align-items: center;
 .menu1-container {
     background-color: pink;
     border: 3px solid black;
-    display: inline-block;
-    padding: 20px;
-}
+  }
 
 .menu2 {
     color: blueviolet;
     text-align: center;
 }
+
+.grid-container {
+    display: grid;
+    grid-template-rows: repeat(4, 300px);
+    grid-template-columns: repeat(4, 300px);
+
+
+
+}
+
 
 .promociones1 {
     color: blueviolet;
