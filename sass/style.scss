@@ -1,7 +1,5 @@
-header {
-    background-color: skyblue;
-    navbar-collapse {
-        align-items: center;
-        justify-content: space-around;
-    }
-}
+@import "components/header";
+@import "components/footer";
+
+
+

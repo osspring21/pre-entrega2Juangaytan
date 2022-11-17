@@ -1,8 +1,18 @@
 header {
   background-color: skyblue;
 }
-header navbar-collapse {
+header .navbar-nav {
   align-items: center;
+  justify-content: space-around;
+}
+header .collapse {
+  justify-content: center;
+}
+
+footer {
+  background-color: skyblue;
+  width: 100%;
+  display: inline-flex;
   justify-content: space-around;
 }
 
