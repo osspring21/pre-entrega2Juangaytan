@@ -1,0 +1,23 @@
+{
+  "name": "entregable-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osspring21/pre-entrega2Juangaytan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osspring21/pre-entrega2Juangaytan/issues"
+  },
+  "homepage": "https://github.com/osspring21/pre-entrega2Juangaytan#readme",
+  "devDependencies": {
+    "node-sass": "^8.0.0",
+    "nodemon": "^2.0.20"
+  }
+}
